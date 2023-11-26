@@ -16,7 +16,7 @@ const defaultHeaders = {
   'sec-fetch-site': 'same-origin',
   'sec-fetch-user': '?1',
   'upgrade-insecure-requests': '1',
-  Referer: 'https://www.xiaoxiangdaili.com/',
+  Referer: 'https://www.kuaidaili.com/',
   'Referrer-Policy': 'strict-origin-when-cross-origin',
   'User-Agent':
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36',

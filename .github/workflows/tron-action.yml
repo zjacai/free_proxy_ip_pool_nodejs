@@ -6,7 +6,7 @@ on:
   # pull_request:
   #   branches: [ "master" ]
   schedule:
-    - cron: "20 5 * * *"
+    - cron: "30 6 * * *"
 
 jobs:
   checkIP:
@@ -38,8 +38,8 @@ jobs:
 
       # - name: Commit
       #   run: |
-      #    git config --global user.name "zjacai"
-      #    git config --global user.email "zjacai@gmail.com"
+      #    git config --global user.name "Mrwang6w"
+      #    git config --global user.email "1134481134@qq.com"
       #    git add .
       #    git commit -m "action:`date`" 
       #    git push origin master 
